@@ -1,0 +1,13 @@
+2023-10-04 22:03:34,751 INFO An INFO
+2023-10-04 22:03:34,752 WARNING A WARNING
+2023-10-04 22:03:34,752 ERROR An ERROR
+2023-10-04 22:03:34,752 CRITICAL A message of CRITICAL severity
+2023-10-04 22:03:34,801 INFO Start polling
+2023-10-04 22:03:35,102 INFO Run polling for bot @DuplTestBot id=2136905538 - 'DuplicatorOfMassage'
+2023-10-04 22:03:54,752 INFO Update id=147658039 is handled. Duration 1700 ms by bot id=2136905538
+2023-10-04 22:03:57,016 INFO Update id=147658040 is handled. Duration 720 ms by bot id=2136905538
+2023-10-04 22:04:19,128 INFO Update id=147658041 is handled. Duration 720 ms by bot id=2136905538
+2023-10-04 22:04:25,033 INFO Update id=147658042 is handled. Duration 1021 ms by bot id=2136905538
+2023-10-04 22:06:01,009 WARNING Received SIGINT signal
+2023-10-04 22:06:01,010 INFO Polling stopped for bot @DuplTestBot id=2136905538 - 'DuplicatorOfMassage'
+2023-10-04 22:06:01,011 INFO Polling stopped
